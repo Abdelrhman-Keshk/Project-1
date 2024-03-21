@@ -742,7 +742,7 @@ font-size: 23px;
 
  .pricing-item::after{
  content: "";
- background-color: rgba(38, 41, 38, 0.2);
+ background-color: rgba(21, 61, 59, 0.2);
  position: absolute;
  width: 100%;
  height: 0;
