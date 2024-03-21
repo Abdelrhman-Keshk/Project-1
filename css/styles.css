@@ -381,6 +381,7 @@ font-size: 23px;
  visibility: hidden;
  transition: top 1s ,opacity .5s;
  transition-delay: .6s;
+ color: purple; 
  }
 
  .porf-items:hover  .CATEGORY,
