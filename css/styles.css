@@ -130,7 +130,7 @@
  margin-bottom: 10px;
  color: #75e75e;
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- 
+ text-shadow: 1px 1px 5px #e7e55e;
  }
 
  .home-title2{
@@ -440,7 +440,7 @@ font-size: 23px;
     
  .offer-items{
  width: 30%;
- height: 180px;
+ height: 18%;
  border: 2px solid gray;
  padding-top: 40px;
  float: left;
@@ -545,13 +545,14 @@ font-size: 23px;
  float: left;
  margin-right: 10% ;
  margin-bottom: 100px;
+ width: 40%;
  }       
 
  .ser-par{
  font-size: 20px;
  color: rgb(95, 95, 95);
  margin-bottom: 30px;
- width: 800px;
+ width: 600px;
  }
 
  .ser-list li{
@@ -580,7 +581,7 @@ font-size: 23px;
 
  .ser-circls{
  list-style: none;
- margin-left: 80%;
+ margin-left: 55%;
  }
 
  .ser-circls li{
