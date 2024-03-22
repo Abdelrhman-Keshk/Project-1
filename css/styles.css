@@ -263,7 +263,7 @@ transition: 1s;
 .porf-container{
 width: 100%;
 margin: auto;
-background-color: #ffffff;
+background-color: #b4b4b4;
 padding-bottom: 100px;
 }
 
@@ -738,7 +738,7 @@ font-size: 23px;
  color: #60d664;
  font-size: 20px;
  margin-bottom: 15px;
- background-color: ##d4d4d4;
+ background-color: #d4d4d4;
  }
 
  .pricing-item::after{
