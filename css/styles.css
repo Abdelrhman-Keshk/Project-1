@@ -365,7 +365,7 @@ font-size: 23px;
  top: 15px;
  visibility: hidden;
  transition: top 1s ,opacity .5s;
- transition-delay: .2s;
+ transition-delay: .3s;
  }
 
  .porf-info a{
@@ -380,7 +380,7 @@ font-size: 23px;
  top: 15px;
  visibility: hidden;
  transition: top 1s ,opacity .5s;
- transition-delay: .4s;
+ transition-delay: .6s;
  color: purple; 
  }
 
